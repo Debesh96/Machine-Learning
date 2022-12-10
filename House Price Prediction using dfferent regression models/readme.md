@@ -1,0 +1,1 @@
+The dataset for the house price prediction was imported from sklearn.dataset. The dataset is called Boston House Price Dataset. The dataset has 506 rows and 14 features. The regressor models used were xgboost regressor, SVR, and Random Forest Regressor. To measure the goodness of the model, r squared error and mean absolute error were used.
